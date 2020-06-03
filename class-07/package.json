@@ -4,6 +4,7 @@
   "description": "Express Server Mechanics: Routing, Middleware, and Approaches to Testing",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint '**/*.js'",
     "test": "jest --verbose --coverage"
   },
   "keywords": [],
